@@ -8,8 +8,7 @@
         android:id="@+id/name"
         android:layout_width="400dp"
         android:layout_height="wrap_content"
-        android:textSize="50dp"
-        android:text="123"/>
+        android:textSize="50dp"/>
     <Button
         android:id="@+id/button1"
         android:layout_width="400dp"
